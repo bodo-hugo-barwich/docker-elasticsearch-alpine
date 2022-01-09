@@ -2,7 +2,7 @@
 
 # docker-elasticsearch-alpine
 
-[![Publish Docker Image](https://github.com/blacktop/docker-elasticsearch-alpine/actions/workflows/docker-image.yml/badge.svg)](https://github.com/blacktop/docker-elasticsearch-alpine/actions/workflows/docker-image.yml) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) [![Docker Stars](https://img.shields.io/docker/stars/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Pulls](https://img.shields.io/docker/pulls/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Image](https://img.shields.io/badge/docker%20image-447MB-blue.svg)](https://hub.docker.com/r/blacktop/elasticsearch/)
+[![Publish Docker Image](https://github.com/blacktop/docker-elasticsearch-alpine/actions/workflows/docker-image.yml/badge.svg)](https://github.com/blacktop/docker-elasticsearch-alpine/actions/workflows/docker-image.yml) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) [![Docker Stars](https://img.shields.io/docker/stars/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Pulls](https://img.shields.io/docker/pulls/blacktop/elasticsearch.svg)](https://hub.docker.com/r/blacktop/elasticsearch/) [![Docker Image](https://img.shields.io/badge/docker%20image-446MB-blue.svg)](https://hub.docker.com/r/blacktop/elasticsearch/)
 
 Alpine Linux based [Elasticsearch](https://www.elastic.co/products/elasticsearch) Docker Image
 
@@ -36,7 +36,8 @@ Compare Image Sizes:
 
 ``` bash
 REPOSITORY               TAG                 SIZE
-blacktop/elasticsearch   latest              447MB
+blacktop/elasticsearch   latest              446MB
+blacktop/elasticsearch   7.16                446MB
 blacktop/elasticsearch   7.15                447MB
 blacktop/elasticsearch   7.10                294MB
 blacktop/elasticsearch   7.9                 297MB
@@ -49,7 +50,7 @@ blacktop/elasticsearch   7.3                 289MB
 blacktop/elasticsearch   7.2                 358MB
 blacktop/elasticsearch   7.1                 304MB
 blacktop/elasticsearch   7.0                 304MB
-blacktop/elasticsearch   6.8                 198MB
+blacktop/elasticsearch   6.8                 281MB
 blacktop/elasticsearch   6.7                 192MB
 blacktop/elasticsearch   6.6                 128MB
 blacktop/elasticsearch   6.5                 127MB
