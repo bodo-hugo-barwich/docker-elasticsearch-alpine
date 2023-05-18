@@ -37,6 +37,7 @@ Compare Image Sizes:
 ``` bash
 REPOSITORY               TAG                 SIZE
 blacktop/elasticsearch   latest              1.02GB
+blacktop/elasticsearch   8.1                 1.02GB
 blacktop/elasticsearch   8.0                 1.02GB
 blacktop/elasticsearch   7.17                411MB
 blacktop/elasticsearch   7.16                446MB
@@ -72,7 +73,7 @@ blacktop/elasticsearch   5.0                 148.4MB
 blacktop/elasticsearch   2.4                 116MB
 blacktop/elasticsearch   kopf                122MB
 blacktop/elasticsearch   2.3                 139.1MB
-blacktop/elasticsearch   1.7                 142.7MB
+blacktop/elasticsearch   1.7                 114MB
 ```
 
 ## Getting Started
@@ -106,5 +107,4 @@ Heavily (if not entirely) influenced by https://github.com/docker-library/elasti
 
 ## License
 
-MIT Copyright (c) 2016-2021 **blacktop**
-
+MIT Copyright (c) 2016-2022 **blacktop**
